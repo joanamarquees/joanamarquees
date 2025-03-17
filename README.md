@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Joana M
 
-<!--
-**joanamarquees/joanamarquees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Frontend developer and Web designer by day, bunnies mom by night 🐇🐇.</br>
+I turn coffee into code and bugs into features!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studied Computer Science (LEIC) at Instituto Superior Técnico, Lisbon, Portugal
+
+Check out my [portfolio](https://juma-portfolio.vercel.app/)
+
+### 🔧 Technologies & Tools
+
+```py
+🌐 Frontend: ReactJS,HTML, CSS, Tailwind, JavaScript
+⚙️ Backend: Firebase, Node.js, Python
+📱 Mobile: React Native
+🛢️ Database: PostgreSQL
+```
+
+### 🌱 Currently Improving
+
+- Javascript knowledge
+
+### 🎯 Fun Facts
+
+- 🧶 I like crocheing and dance
+- 🌍 I'm currently based in ~~Angola~~, ~~Cape-Verde~~, ~~France~~ Lisbon, Portugal
+- ☕ Professional coffee taster (well, someone has to test it while coding!)
+
+---
+
+<p align="center">
+  © 2025 ~ Made with ♡ by Joana M
+</p>
