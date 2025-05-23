@@ -7,7 +7,7 @@ I turn coffee into code and bugs into features!
 
 🎓 Studied Computer Science (LEIC) at Instituto Superior Técnico, Lisbon, Portugal
 
-Check out my [portfolio](https://juma-portfolio.vercel.app/)
+Check out my [portfolio](https://joanamarques.tudu.dev/)
 
 ### 🔧 Technologies & Tools
 
