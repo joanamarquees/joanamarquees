@@ -11,11 +11,11 @@ Check out my [portfolio](https://juma-portfolio.vercel.app/)
 
 ### 🔧 Technologies & Tools
 
-```py
-🌐 Frontend: ReactJS,HTML, CSS, Tailwind, JavaScript
+```
+🌐 Frontend: ReactJS, HTML, CSS, Tailwind, JavaScript
 ⚙️ Backend: Firebase, Node.js, Python
 📱 Mobile: React Native
-🛢️ Database: PostgreSQL
+🛢️ Database: PostgresSQL
 ```
 
 ### 🌱 Currently Improving
